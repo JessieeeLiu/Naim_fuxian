@@ -1,0 +1,4 @@
+set,class,auc,auc,auc,auc,accuracy,accuracy,accuracy,accuracy,recall,recall,recall,recall,precision,precision,precision,precision,f1_score,f1_score,f1_score,f1_score
+,,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+train,<=50K,87.95,1.1,86.66,88.9,62.06,8.1,52.77,71.36,98.3,2.02,95.05,100.0,57.51,5.53,51.43,64.49,72.38,3.9,67.92,76.85
+train,>50K,87.95,1.1,86.66,88.9,62.06,8.1,52.77,71.36,25.83,18.05,5.55,47.67,96.08,3.94,90.59,99.92,37.65,22.97,10.51,62.47

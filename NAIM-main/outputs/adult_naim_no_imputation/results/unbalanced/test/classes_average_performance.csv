@@ -1,0 +1,4 @@
+set,class,auc,auc,auc,auc,accuracy,accuracy,accuracy,accuracy,recall,recall,recall,recall,precision,precision,precision,precision,f1_score,f1_score,f1_score,f1_score
+,,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+test,<=50K,91.26,0.61,90.5,92.01,82.48,3.98,77.73,86.34,97.79,2.51,93.82,99.96,82.78,4.9,77.38,88.85,89.53,1.91,87.23,91.27
+test,>50K,91.26,0.61,90.5,92.01,82.48,3.98,77.73,86.34,33.8,23.91,7.06,62.56,88.78,9.68,76.11,98.83,43.61,25.32,13.17,68.67
